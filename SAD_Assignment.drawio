@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-10-14T11:55:04.804Z" agent="Mozilla/5.0 (iPad; CPU OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/118.0.5993.69 Mobile/15E148 Safari/604.1" etag="BcLyssBy6fJYC8g_ausz" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-14T12:08:50.457Z" agent="Mozilla/5.0 (iPad; CPU OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/118.0.5993.69 Mobile/15E148 Safari/604.1" etag="oaotl0pEzUIrvDT0wbu5" version="22.0.4" type="github">
   <diagram name="Page-1" id="zYtFi2cb0Fftw71drmIP">
-    <mxGraphModel dx="644" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1474" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Us4VGtToJiAJWaTtF1KS-2" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;Ordering and Transaction&lt;/span&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="-341.88" y="60" width="403.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Us4VGtToJiAJWaTtF1KS-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="410" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Us4VGtToJiAJWaTtF1KS-7" value="&amp;nbsp;Receive notifications after order placed successfully&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-240.01" y="320" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Us4VGtToJiAJWaTtF1KS-5" value="" style="swimlane;startSize=0;fontSize=16;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="-320.01" y="80" width="360.01" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="Us4VGtToJiAJWaTtF1KS-1" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="Us4VGtToJiAJWaTtF1KS-5">
+          <mxGeometry x="80" y="110" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Us4VGtToJiAJWaTtF1KS-6" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Users&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=3" vertex="1" parent="Us4VGtToJiAJWaTtF1KS-5">
+          <mxGeometry x="150.01" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Us4VGtToJiAJWaTtF1KS-8" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="Us4VGtToJiAJWaTtF1KS-5">
+          <mxGeometry x="80" y="380" width="200" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
