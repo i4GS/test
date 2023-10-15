@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-10-15T14:06:16.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.4" etag="zNDpEt-6-xV6swM-sQIt" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-15T14:26:35.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="tNvX4s2tEUfI6SGTZwJy" version="22.0.4" type="github">
   <diagram name="Page-1" id="1L5WrQ_xsIaw3wv9u6_h">
-    <mxGraphModel>
+    <mxGraphModel dx="1588" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IPSD1Vm8L01byhUQGxte-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IPSD1Vm8L01byhUQGxte-1" target="IPSD1Vm8L01byhUQGxte-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPSD1Vm8L01byhUQGxte-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="943" y="137" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IPSD1Vm8L01byhUQGxte-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IPSD1Vm8L01byhUQGxte-2" target="IPSD1Vm8L01byhUQGxte-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPSD1Vm8L01byhUQGxte-2" value="Input personal information" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="905.5" y="307" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IPSD1Vm8L01byhUQGxte-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IPSD1Vm8L01byhUQGxte-4" target="IPSD1Vm8L01byhUQGxte-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPSD1Vm8L01byhUQGxte-4" value="double&lt;br&gt;string" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="918" y="227" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IPSD1Vm8L01byhUQGxte-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IPSD1Vm8L01byhUQGxte-6" target="IPSD1Vm8L01byhUQGxte-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPSD1Vm8L01byhUQGxte-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IPSD1Vm8L01byhUQGxte-6" target="IPSD1Vm8L01byhUQGxte-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPSD1Vm8L01byhUQGxte-6" value="Choose a type of product" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="905.5" y="408" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IPSD1Vm8L01byhUQGxte-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="IPSD1Vm8L01byhUQGxte-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="615" as="sourcePoint" />
+            <mxPoint x="307.9999999999998" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPSD1Vm8L01byhUQGxte-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="IPSD1Vm8L01byhUQGxte-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="756.4999999999998" y="720" as="targetPoint" />
+            <mxPoint x="625" y="615" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPSD1Vm8L01byhUQGxte-7" value="Vegetable subscription" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413" y="570" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IPSD1Vm8L01byhUQGxte-8" value="Buying a monthly growner?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="212" y="720" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IPSD1Vm8L01byhUQGxte-9" value="Kits" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1373" y="570" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IPSD1Vm8L01byhUQGxte-23" value="Buying a annual growner?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="652.5" y="720" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IPSD1Vm8L01byhUQGxte-25" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="329" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IPSD1Vm8L01byhUQGxte-26" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="677" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
